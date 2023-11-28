@@ -6,6 +6,4 @@
   </div>
 </template>
 
-<script setup>
-import Button from "#test/components/button/Button.vue";
-</script>
+<script setup></script>
