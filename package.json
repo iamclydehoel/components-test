@@ -1,8 +1,8 @@
 {
   "name": "components-test",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A way to test components",
-  "repository": "your-org/components-test",
+  "repository": "iamclydehoel/components-test",
   "license": "MIT",
   "type": "module",
   "exports": {
