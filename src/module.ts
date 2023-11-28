@@ -5,7 +5,7 @@ export interface ModuleOptions {}
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {
-    name: "@iamclydehoel/components-test",
+    name: "@michaeldoyle/components-test",
     configKey: "components",
   },
   // Default configuration options of the Nuxt module
